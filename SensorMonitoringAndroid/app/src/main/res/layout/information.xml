@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_list"
+    tools:context=".Information"
+    android:id="@+id/laYout">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="Information"
+                android:gravity="center"
+                android:textSize="30dp"
+                android:layout_marginTop="30dp"
+                android:textColor="@color/colorAccent"
+                android:textStyle="bold"></TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textStyle="italic"
+                android:text="1. What should baby wear?"
+                android:gravity="center"
+                android:textSize="30dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/cardview_dark_background"></TextView>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="500dp"
+                android:background="@drawable/babywear"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="20dp"></ImageView>
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textStyle="italic"
+                android:text="2. How to use this app?"
+                android:gravity="center"
+                android:textSize="30dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/cardview_dark_background"></TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textStyle="italic"
+                android:text="1. First connect to arduino"
+                android:gravity="center"
+                android:textSize="30dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/colorAccent"></TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textStyle="italic"
+                android:text="2. "
+                android:gravity="center"
+                android:textSize="30dp"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/colorAccent"></TextView>
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+</RelativeLayout>
