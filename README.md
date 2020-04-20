@@ -13,4 +13,3 @@
 
 ## Ether to Con
   Conun Ether to [Con Wallet](http://www.etc.conun.io) 
-  (https://www.dailysecu.com/news/articleView.html?idxno=53832)
