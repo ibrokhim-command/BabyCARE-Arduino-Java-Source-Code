@@ -15,4 +15,4 @@
   Conun Ether to [Con Wallet](http://www.etc.conun.io) 
   
 ## Contact
-  Conun Ether to [Con Wallet](http://www.etc.conun.io) 
+  If you have some question or you need more information about Conun, [contact with us](http://www.conun.io) 
