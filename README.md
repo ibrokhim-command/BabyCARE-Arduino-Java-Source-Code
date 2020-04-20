@@ -14,5 +14,5 @@
 ## Ether to Con
   Conun Ether to [Con Wallet](http://www.etc.conun.io) 
   
-![Conun Logo]
-(https://markdown-here.com/img/icon256.png)
+## Contact
+  Conun Ether to [Con Wallet](http://www.etc.conun.io) 
