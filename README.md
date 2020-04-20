@@ -5,10 +5,10 @@ CONUN is a platform that builds a horizontal distributed desktop computing   sys
 "CONUN offers an efficient environment for computational speedup, expandability , availability , reliability, and above all, good price-performance benefits"
 
 ## Installation & guide
-  * Installation
-    0. Install Docker 
-    0. Install Conun Manager.exe file
-    0. Download Task processor & Utility of Create Project’s data
+  1. Installation
+    1. Install Docker 
+    1. Install Conun Manager.exe file
+    1. Download Task processor & Utility of Create Project’s data
   * [More Information](http://www.docs.conun.io)
 
 ## Ether to Con
