@@ -15,4 +15,6 @@
   Conun Ether to [Con Wallet](http://www.etc.conun.io) 
   
 ## Contact
-  If you have some question or you need more information about Conun, [contact with us](http://www.conun.io) 
+  If you have some questions or you need more information about Conun, please contact with us.
+    * [Conun homepage](http://www.conun.io)
+    * [Conun chat](https://t.me/conun_global)
