@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="CONUN preview" src="https://conun.io/img/main_menu_logo_white.png" height="140" />
+  <img alt="CONUN preview" src="https://conun.io/img/main_menu_logo_white.png" height="60" />
   <h1 align="center">CONUN MANAGER</h1>
   <p align="center">Distributed Supercomputing Platform</p>
 </p>
