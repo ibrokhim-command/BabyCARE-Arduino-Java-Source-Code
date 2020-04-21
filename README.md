@@ -33,29 +33,29 @@
 
 ## Installation & guide
   * **Installation**
-  1. Step: 
-  Install Docker for Windows, downloaded the installer (Docker Desktop Installer.exe), you can get it from Docker Hub (https://hub.docker.com/editions/community/docker-ce-desktop-windows/).
-  2. Step: Install (Conun Manager.exe) file, you can get it from (https://github.com/ibrokhim-command/BabyCARE-Arduino-Java-Source-Code/edit/maste)
-  3. Step: Download Task processor & Utility of Create Project.
-  You can get it from (https://github.com/ibrokhim-command/BabyCARE-Arduino-Java-Source-Code/edit/maste)
+  Step 1: 
+   nstall Docker for Windows, downloaded the installer (Docker Desktop Installer.exe), you can get it from Docker Hub (https://hub.docker.com/editions/community/docker-ce-desktop-windows/).
+  Step 2:
+   Install (Conun Manager.exe) file, you can get it from (https://docs.conun.io/)
+  Step 3:
+   Download Task processor & Utility of Create Project.
+  You can get it from (https://docs.conun.io/)
   
   
   [Detail Information](http://www.docs.conun.io)
 
-## Get Testnet CON Token
+## How to get Token from Testnet
+Link to get free CON Token from CONUN Testnet(Ropsten) [Link](https://faucet.ropsten.be/)
 Link to get free Ropsten Testnet CON Token [Link](http://www.etc.conun.io) 
   
 ## Sample Project
-###### How to test sample project?
+###### Description
 -	You can try DSC system with this sample project.
 -	This project needs task processor and data file(data.txt)
 -	It is possible to test max 256 task processors in one project.
 -	It is possible to effective to project’s complete times with option(mode and level) when  create project data file(data.txt).
 
-Link to download: 
-* [Sample Project](http://www.conun.io)
+###### How to test sample project?
+[Detail information](https://docs.conun.io/)
 
-## Contacts
- ** If you have some questions or you need more information about Conun, please contact with us.**
-  * [Conun Homepage](http://www.conun.io)
-  * [Conun Comunity](https://t.me/conun_global)
+
