@@ -32,11 +32,11 @@
 - Install Microsoft Visual C++ 2015-2019 Redistributable(x64)
 
 ## Installation & guide
-  * **Installation**<br>
+  * **Installation**<br><br>
   Step 1:<br> 
-     Install Docker for Windows, downloaded the installer (Docker Desktop Installer.exe), you can get it from Docker Hub (https://hub.docker.com/editions/community/docker-ce-desktop-windows/).<br>
+     Install Docker for Windows, downloaded the installer (Docker Desktop Installer.exe), you can get it from Docker Hub (https://hub.docker.com/editions/community/docker-ce-desktop-windows/).<br><br>
   Step 2:<br>
-     Install (Conun Manager.exe) file, you can get it from (https://docs.conun.io/)<br>
+     Install (Conun Manager.exe) file, you can get it from (https://docs.conun.io/)<br><br>
   Step 3:<br>
      Download Task processor & Utility of Create Project.
   You can get it from (https://docs.conun.io/)
