@@ -49,12 +49,12 @@
 * Link to get free Ropsten Testnet CON Token [Link](http://www.etc.conun.io) 
   
 ## Sample Project
-###### Description
+#### Description
 -	In this sample project, you need two objects for the task processor and data file.
 -	You can download the related program from [github](https://github.com/CONUN-Global/CONUN).
 -	It is possible to test max 256 task processors in one project.
 
-###### How to test sample project?
+#### How to test sample project?
 [Detail information](https://docs.conun.io/)
 
 
