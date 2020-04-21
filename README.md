@@ -33,8 +33,8 @@
 
 ## Installation & guide
   * **Installation**
-  Step 1: 
-   nstall Docker for Windows, downloaded the installer (Docker Desktop Installer.exe), you can get it from Docker Hub (https://hub.docker.com/editions/community/docker-ce-desktop-windows/).
+  Step 1:<br> 
+   nstall Docker for Windows, downloaded the installer (Docker Desktop Installer.exe), you can get it from Docker Hub (https://hub.docker.com/editions/community/docker-ce-desktop-windows/).<br>
   Step 2:
    Install (Conun Manager.exe) file, you can get it from (https://docs.conun.io/)
   Step 3:
