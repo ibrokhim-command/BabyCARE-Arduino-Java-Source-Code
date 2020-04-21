@@ -45,8 +45,8 @@
   [Detail Information](http://www.docs.conun.io)
 
 ## How to get Token from Testnet
-Link to get free CON Token from CONUN Testnet(Ropsten) [Link](https://faucet.ropsten.be/)
-Link to get free Ropsten Testnet CON Token [Link](http://www.etc.conun.io) 
+* Link to get free CON Token from CONUN Testnet(Ropsten) [Link](https://faucet.ropsten.be/)<br>
+* Link to get free Ropsten Testnet CON Token [Link](http://www.etc.conun.io) 
   
 ## Sample Project
 ###### Description
