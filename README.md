@@ -6,7 +6,7 @@
 </p>
 
 [![HomePage](https://conun.io/)
-[![Community](https://www.facebook.com/conunglobal/?modal=admin_todo_tour)
+[![Community](https://webstockreview.net/images/google-docs-icon-png-14.png/conunglobal/?modal=admin_todo_tour)
 [![Docs](https://conun.io/img/main_menu_logo_white.png)](https://www.facebook.com/conunglobal/?modal=admin_todo_tour)
 
 ## Blockchain-based Distributed Supercomputing Platform
