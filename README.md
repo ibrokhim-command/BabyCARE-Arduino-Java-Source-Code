@@ -50,10 +50,9 @@ Link to get free Ropsten Testnet CON Token [Link](http://www.etc.conun.io)
   
 ## Sample Project
 ###### Description
--	You can try DSC system with this sample project.
--	This project needs task processor and data file(data.txt)
+-	In this sample project, you need two objects for the task processor and data file.
+-	You can download the related program from [github](https://github.com/CONUN-Global/CONUN).
 -	It is possible to test max 256 task processors in one project.
--	It is possible to effective to project’s complete times with option(mode and level) when  create project data file(data.txt).
 
 ###### How to test sample project?
 [Detail information](https://docs.conun.io/)
