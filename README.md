@@ -1,4 +1,8 @@
-# CONUN
+<p align="center">
+  <img alt="CONUN preview" src="https://conun.io/img/main_menu_logo_white.png" height="140" />
+  <h1 align="center">CONUN MANAGER</h1>
+  <p align="center">Distributed Supercomputing Platform</p>
+</p>
 
 [![Build Status](https://travis-ci.org/sonm-io/core.svg?branch=master)](https://travis-ci.org/sonm-io/core)
 [![Build status](https://ci.appveyor.com/api/projects/status/01d7cpccwi8scwqp/branch/master?svg=true)](https://ci.appveyor.com/project/Sokel/core/branch/master)
