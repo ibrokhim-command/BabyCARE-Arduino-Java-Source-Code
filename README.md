@@ -32,7 +32,7 @@
 - Install Microsoft Visual C++ 2015-2019 Redistributable(x64)
 
 ## Installation & guide
-  * **Installation**<br>
+  * **Installation**<br><br>
   Step 1:<br> 
   Install Docker for Windows, downloaded the installer (Docker Desktop Installer.exe), you can get it from Docker Hub  [here](https://hub.docker.com/editions/community/docker-ce-desktop-windows/).<br><br>
   Step 2:<br>
