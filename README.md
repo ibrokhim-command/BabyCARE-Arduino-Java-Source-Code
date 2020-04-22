@@ -4,10 +4,10 @@
   <br><br>
   <p align="center">Distributed Supercomputing Platform</p>
 </p>
+```python
 
-[![HomePage](https://conun.io/)
-[![Community](https://webstockreview.net/images/google-docs-icon-png-14.png/conunglobal/?modal=admin_todo_tour)
-[![Docs](https://conun.io/img/main_menu_logo_white.png)](https://www.facebook.com/conunglobal/?modal=admin_todo_tour)
+docker pull [OPTIONS] NAME[:TAG|@DIGEST]
+```
 
 ## Blockchain-based Distributed Supercomputing Platform
   CONUN is a platform that builds a horizontal distributed desktop computing   system integrated with blockchain technology that shares idle processing resources on personal computers to handle multiple projects that require high performance computing resources. CONUN uses Ethereum blockchain that transparently and securely exchanges transactions , agreements, and payments without any intermediary services.
