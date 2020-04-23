@@ -33,7 +33,7 @@
   You can get it from [here.](https://docs.conun.io/)<br>
   
   
-  [Detail Information](http://www.docs.conun.io)
+  [Detail Information](https://docs.conun.io/)
 
 ## How to get Token from Testnet
 * Link to get free CON Token from CONUN Testnet(Ropsten) [Link](https://faucet.ropsten.be/)<br>
