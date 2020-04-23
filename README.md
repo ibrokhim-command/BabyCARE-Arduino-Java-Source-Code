@@ -51,6 +51,4 @@ This sample project created to show how distributed processing is performed on t
 
 ## Contact
 * [Homepage](https://conun.io/)<br>
-* [Facebook](https://www.facebook.com/conunglobal/?modal=admin_todo_tour)<br>
-* [Twitter](https://twitter.com/conunglobal) 
-
+* [Facebook](https://www.facebook.com/conunglobal/?modal=admin_todo_tour)
